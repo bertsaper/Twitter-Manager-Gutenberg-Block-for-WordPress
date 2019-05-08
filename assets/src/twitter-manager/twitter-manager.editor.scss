@@ -1,0 +1,13 @@
+/*
+* For styles only loaded in the editor
+* These styles are actually inlined using webpack style-loader.  They are not loaded using WordPress enqueuing.
+*/
+
+.inspector-label {
+    font-weight:700;
+    padding: 20px 2px 1px;
+}
+
+.inspector-label-text {
+    margin-bottom:28px;
+}
