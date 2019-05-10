@@ -19,7 +19,7 @@ const {
 
 const { select } = wp.data;
 
-registerBlockType('lm-ad-manger/twitter-manager', {
+registerBlockType('twitter-manager/twitter-display', {
     title: 'Twitter Manager Block',
     icon: iconEl,
     category: 'common',
